@@ -9,7 +9,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/male/19.jpg" />
+            <img src="https://randomuser.me/api/portraits/men/32.jpg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Plimpton Stanley G MD</h4>
@@ -37,7 +37,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/male/14.jpg" />
+            <img src="https://tinyfac.es/data/avatars/475605E3-69C5-4D2B-8727-61B7BB8C4699-500w.jpeg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Bakos Odett MD</h4>
@@ -65,7 +65,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/female/16.jpg" />
+            <img src="https://randomuser.me/api/portraits/women/44.jpg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Kobe Lauwers MD</h4>
@@ -95,7 +95,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/male/16.jpg" />
+            <img src="https://randomuser.me/api/portraits/men/46.jpg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Michael Chapman MD</h4>
@@ -123,7 +123,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/female/7.jpg" />
+            <img src="https://randomuser.me/api/portraits/women/47.jpg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Justine Marie MD</h4>
@@ -151,7 +151,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/female/10.jpg" />
+            <img src="https://randomuser.me/api/portraits/women/49.jpg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Syrine Leger MD</h4>
@@ -181,7 +181,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/male/2.jpg" />
+            <img src="https://randomuser.me/api/portraits/men/97.jpg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Wenke Sauer MD</h4>
@@ -209,7 +209,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/male/15.jpg" />
+            <img src="https://tinyfac.es/data/avatars/7D3FA6C0-83C8-4834-B432-6C65ED4FD4C3-500w.jpeg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Joshua Stevens MD</h4>
@@ -237,7 +237,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/female/19.jpg" />
+            <img src="https://faces.design/faces/w/w13.png" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Cristina Parghel MD</h4>
@@ -267,7 +267,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/female/8.jpg" />
+            <img src="https://randomuser.me/api/portraits/women/79.jpg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Julia Hanu MD</h4>
@@ -295,7 +295,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/male/6.jpg" />
+            <img src="https://pbs.twimg.com/profile_images/969073897189523456/rSuiu_Hr.jpg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">David Sims G MD</h4>
@@ -323,7 +323,7 @@
       <v-flex md4>
         <v-card class="card-size">
           <v-avatar size="60" class="icon-position">
-            <img src="https://uinames.com/api/photos/female/9.jpg" />
+            <img src="https://randomuser.me/api/portraits/women/95.jpg" />
           </v-avatar>
           <v-card-text class="text-left card-text">
             <h4 class="font-weight-bold">Kelly Bennett MD</h4>

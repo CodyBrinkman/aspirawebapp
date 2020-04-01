@@ -346,9 +346,9 @@
         </v-card>
       </v-tab-item>
     </v-tabs>
-    <v-layout>
+    <!-- <v-layout>
       <v-flex class="spacer-width"></v-flex>
-    </v-layout>
+    </v-layout> -->
   </v-container>
 </template>
 <script>
