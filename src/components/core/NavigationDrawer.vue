@@ -67,7 +67,7 @@
         </v-list-tile-action>
       </v-list-tile> -->
     </v-list>
-    
+
   </v-navigation-drawer>
 </template>
 
