@@ -56,7 +56,7 @@
   </v-container>
 </template>
 
-<script>
+<script type="text/javascript" defer="defer">
 module.exports = {
   data: function() {
     return {
